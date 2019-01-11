@@ -1,0 +1,10 @@
+.container {
+    width: 500px;
+    margin: 0 auto;
+}
+#mistake {
+    display: none;
+}
+form {
+    padding: 10px;
+}
